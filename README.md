@@ -2,7 +2,7 @@
 
 Working on [Advent of Code 2022](https://adventofcode.com/2022/)!
 
-![](https://img.shields.io/badge/stars%20⭐-12-yellow) ![](https://img.shields.io/badge/days%20completed-6-red)
+![](https://img.shields.io/badge/stars%20⭐-14-yellow) ![](https://img.shields.io/badge/days%20completed-7-red)
 
 | day | Problem             | Part one                 | Part two                 | Stars won                                            |
 |----:|:--------------------|:-------------------------|:-------------------------|:-----------------------------------------------------|
@@ -12,6 +12,7 @@ Working on [Advent of Code 2022](https://adventofcode.com/2022/)!
 |  04 | Camp Cleanup        | [**one**](day04/one.py) | [**two**](day04/two.py) | ![](https://img.shields.io/badge/stars%20⭐-2-yellow) |
 |  05 | Supply stacks       | [**one**](day05/one.py) | [**two**](day05/two.py) | ![](https://img.shields.io/badge/stars%20⭐-2-yellow) |
 |  06 | Tuning Trouble      | [**one**](day06/one.py) | [**two**](day06/two.py) | ![](https://img.shields.io/badge/stars%20⭐-2-yellow) |
+|  07 | No Space Left       | [**one**](day07/one.py) | [**two**](day07/two.py) | ![](https://img.shields.io/badge/stars%20⭐-2-yellow) |
 
 *Badges from: https://github.com/J0B10/aoc-badges-action*
 
