@@ -21,18 +21,17 @@ def parse_listing(filename):
     current.subdirs["/"] = Directory("/", root)
     with open(filename) as fileh:
         for line in fileh:
-            parts = line.strip().split()
-            if parts[0] == "$" and parts[1] == "cd":
-                if parts[2] == "..":
+            match line.split():
+                case ['$', 'cd', '..']:
                     current = current.parent
-                else:
-                    current = current.subdirs[parts[2]]
-            elif parts[1] == "ls":
-                pass
-            elif parts[0] == "dir":
-                current.subdirs[parts[1]] = Directory(parts[1], current)
-            else:
-                current.files[parts[1]] = int(parts[0])
+                case ['$', 'cd', name]:
+                    current = current.subdirs[name]
+                case ['$', 'ls']:
+                    pass
+                case ['dir', name]:
+                    current.subdirs[name] = Directory(name, current)
+                case [size, name]:
+                    current.files[name] = int(size)
     return root
 
 
