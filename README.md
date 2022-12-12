@@ -2,7 +2,7 @@
 
 Working on [Advent of Code 2022](https://adventofcode.com/2022/)!
 
-![](https://img.shields.io/badge/stars%20⭐-20-yellow) ![](https://img.shields.io/badge/days%20completed-10-red)
+![](https://img.shields.io/badge/stars%20⭐-24-yellow) ![](https://img.shields.io/badge/days%20completed-12-red)
 
 | day | Problem             | Part one                 | Part two                 | Stars won                                            |
 |----:|:--------------------|:-------------------------|:-------------------------|:-----------------------------------------------------|
@@ -16,6 +16,8 @@ Working on [Advent of Code 2022](https://adventofcode.com/2022/)!
 |  08 | Treetop Tree House  | [**one**](day08/one.py) | [**two**](day08/two.py) | ![](https://img.shields.io/badge/stars%20⭐-2-yellow) |
 |  09 | Rope Bridge         | [**one**](day09/one.py) | [**two**](day09/two.py) | ![](https://img.shields.io/badge/stars%20⭐-2-yellow) |
 |  10 | Cathode-Ray Tube    | [**one**](day10/one.py) | [**two**](day10/two.py) | ![](https://img.shields.io/badge/stars%20⭐-2-yellow) |
+|  11 | Monkey in the m     | [**one**](day11/one.py) | [**two**](day11/two.py) | ![](https://img.shields.io/badge/stars%20⭐-2-yellow) |
+|  12 | Hill CLimbing Algo  | [**one**](day12/one.py) | [**two**](day12/two.py) | ![](https://img.shields.io/badge/stars%20⭐-2-yellow) |
 
 *Badges from: https://github.com/J0B10/aoc-badges-action*
 
