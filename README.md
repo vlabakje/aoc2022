@@ -2,7 +2,7 @@
 
 Working on [Advent of Code 2022](https://adventofcode.com/2022/)!
 
-![](https://img.shields.io/badge/stars%20⭐-36-yellow) ![](https://img.shields.io/badge/days%20completed-18-red)
+![](https://img.shields.io/badge/stars%20⭐-38-yellow) ![](https://img.shields.io/badge/days%20completed-19-red)
 
 | day | Problem             | Part one                 | Part two                 | Stars won                                            |
 |----:|:--------------------|:-------------------------|:-------------------------|:-----------------------------------------------------|
@@ -24,6 +24,7 @@ Working on [Advent of Code 2022](https://adventofcode.com/2022/)!
 |  18 | Boiling Boulders    | [**one**](day18/one.py) | [**two**](day18/two.py) | ![](https://img.shields.io/badge/stars%20⭐-2-yellow) |
 |  20 | Grove Positioning   | [**one**](day20/one.py) | [**two**](day20/two.py) | ![](https://img.shields.io/badge/stars%20⭐-2-yellow) |
 |  21 | Monkey Math         | [**one**](day21/one.py) | [**two**](day21/two.py) | ![](https://img.shields.io/badge/stars%20⭐-2-yellow) |
+|  23 | Unstable Diffusion  | [**one**](day23/one.py) | [**two**](day23/two.py) | ![](https://img.shields.io/badge/stars%20⭐-2-yellow) |
 
 *Badges from: https://github.com/J0B10/aoc-badges-action*
 
